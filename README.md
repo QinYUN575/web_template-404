@@ -2,4 +2,4 @@
 
 太空人 404 页面模板
 
-![spaceman](./assets/images/spaceman.svg)
+![spaceman](./preview/404.png)
